@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<assets PGFVersion="0.20" GSCVersion="0.11.1.11"><sounds/><images><image name="subtake3-01"><file name="subtake3-01.png"/></image></images><behaviors/></assets>
+<assets PGFVersion="0.20" GSCVersion="0.11.1.11"><sounds/><images><image name="ocean_background"><file premulAlpha="0" name="ocean_background.png" size="27106"/></image><image name="subcopy"><file premulAlpha="0" name="subcopy.png" size="67914"/></image><image name="battery"><file premulAlpha="0" name="battery.png" size="13477"/></image></images><behaviors/></assets>
